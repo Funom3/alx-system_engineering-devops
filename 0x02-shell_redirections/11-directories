@@ -1,0 +1,2 @@
+#!/bin/bash
+fin . -type d -root -name . | WC -1
