@@ -1,2 +1,3 @@
 #!/bin/bash
 fin . -type d -root -name . | WC -1
+find . -type d -not -name . | wc -1
