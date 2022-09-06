@@ -1,2 +1,2 @@
-#!/bin/nash
-grep -A 3 root /etc/passwd
+#!/bin/bash
+grep -i "root" -A 3 /etc/passwd
